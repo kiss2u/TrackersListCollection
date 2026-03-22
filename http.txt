@@ -28,27 +28,29 @@ http://ipv4.rer.lol:2710/announce
 
 http://jvavav.com:80/announce
 
-http://lucke.fenesisu.moe:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
+
+http://open.acgtracker.com:1096/announce
+
+http://open.trackerlist.xyz:80/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
 http://s1130639.ha009.t.mydomain.zone:80/announce
 
-http://s1130642.ha014.t.mydomain.zone:80/announce
-
 http://seeders-paradise.org:80/announce
 
-http://shubt.net:2710/announce
+http://share.hkg-fansub.info:80/announce.php
+
+http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
 http://tr.highstar.shop:80/announce
 
-http://tr.nyacat.pw:80/announce
+http://tr.kxmp.cf:80/announce
 
-http://tracker.23794.top:6969/announce
+http://tr.nyacat.pw:80/announce
 
 http://tracker.bittor.pw:1337/announce
 
@@ -74,9 +76,15 @@ http://tracker.exe.in.th:6969/announce
 
 http://tracker.ghostchu-services.top:80/announce
 
+http://tracker.ipv6tracker.org:80/announce
+
+http://tracker.lintk.me:2710/announce
+
 http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
@@ -84,11 +92,11 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
+http://tracker.vanitycore.co:6969/announce
+
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.com:80/announce
-
-http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -108,6 +116,8 @@ https://1337.abcvg.info:443/announce
 
 https://cny.fan:443/announce
 
+https://colibri.parrot.run:443/announce
+
 https://http1.torrust-tracker-demo.com:443/announce
 
 https://pybittrack.retiolus.net:443/announce
@@ -119,8 +129,6 @@ https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -135,6 +143,8 @@ https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.iochimari.moe:443/announce
+
+https://tracker.iperson.xyz:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -157,6 +167,4 @@ https://tracker.yggleak.top:443/announce
 https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://wsad.run.place:443/announce
 
