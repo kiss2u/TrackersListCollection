@@ -36,6 +36,8 @@ https://torrents.tmtime.dev:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tracker.7471.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
@@ -70,6 +72,8 @@ udp://obey.torrentonline.cc:42069/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://open.ftorrent.com:443/announce
+
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
@@ -79,8 +83,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://retracker.hotplug.ru:2710/announce
 
 udp://seedpeer.net:6969/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -97,6 +99,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
@@ -116,8 +120,6 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.playground.ru:6969/announce
 
-udp://tracker.plx.im:6969/announce
-
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
@@ -125,6 +127,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-1.org:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -136,8 +140,6 @@ udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.wildkat.net:6969/announce
 
-udp://trackthis.cyber.pz.it:1337/announce
-
 udp://uabits.today:6990/announce
 
 udp://udp.tracker.projectk.org:23333/announce
@@ -145,8 +147,6 @@ udp://udp.tracker.projectk.org:23333/announce
 udp://udp1.torrust-tracker-demo.com:6969/announce
 
 udp://vito-tracker.duckdns.org:6969/announce
-
-udp://wepzone.net:6969/announce
 
 udp://whybother.torrentonline.cc:42069/announce
 

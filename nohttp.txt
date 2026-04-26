@@ -20,6 +20,8 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://explodie.org:6969/announce
+
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://leet-tracker.moe:1337/announce
@@ -31,8 +33,6 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 udp://obey.torrentonline.cc:42069/announce
 
 udp://open.demonii.com:1337/announce
-
-udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
 
@@ -114,8 +114,6 @@ udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.wildkat.net:6969/announce
 
-udp://tracker.yume-hatsuyuki.moe:6969/announce
-
 udp://tracker1.itzmx.com:8080/announce
 
 udp://tracker2.itzmx.com:6961/announce
@@ -124,13 +122,13 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://trackthis.cyber.pz.it:1337/announce
-
 udp://uabits.today:6990/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://udp1.torrust-tracker-demo.com:6969/announce
+
+udp://utracker.ghostchu-services.top:6969/announce
 
 udp://vito-tracker.duckdns.org:6969/announce
 
