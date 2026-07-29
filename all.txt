@@ -38,6 +38,8 @@ http://tr.kxmp.cf:80/announce
 
 http://tr.nyacat.pw:80/announce
 
+http://tracker.bt4g.com:2095/announce
+
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
@@ -96,7 +98,7 @@ https://tr.zukizuki.org:443/announce
 
 https://tracker.7471.top:443/announce
 
-https://tracker.adgk.net:443/announce
+https://tracker.bt4g.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -180,6 +182,10 @@ udp://torrentclub.online:1984/announce
 
 udp://torrentclub.online:54123/announce
 
+udp://tr3.ysagin.top:2715/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -189,6 +195,8 @@ udp://tracker.aruku.ovh:8081/announce
 udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
 
@@ -201,6 +209,10 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
 
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker.flatuslifir.is:6969/announce
+
+udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -222,6 +234,8 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
+udp://tracker.plx.im:6969/announce
+
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -229,6 +243,8 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
