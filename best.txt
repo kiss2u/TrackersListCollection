@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://bt1.archive.org:6969/announce
+
 http://bt2.archive.org:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
@@ -13,6 +15,8 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
+
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -96,8 +100,6 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
@@ -123,6 +125,8 @@ udp://tracker.teambelgium.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.wildkat.net:6969/announce
+
+udp://zer0day.ch:1337/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
